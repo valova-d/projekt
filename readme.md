@@ -3,7 +3,7 @@
 
 Ve složce knihovna se nachází soubory s funkcemi pro hledání cesty bludištěm a s funkcemi pro jejich generování.
 V notebooku examples.ipynb je ukázáno použití těchto funkcí. 
-Ve složce data se nacházejí testovací data pro hledání cesty, ve složce sablony se nacházejí šablony použité pro generování bludišť, ve složce vygenerovaná bludiště je ještě oár dalších příkladů vygenerovaných bludišť.
+Ve složce data se nacházejí testovací data pro hledání cesty, ve složce sablony se nacházejí šablony použité pro generování bludišť, ve složce vygenerovaná bludiště je ještě pár dalších příkladů vygenerovaných bludišť.
 
 
 
